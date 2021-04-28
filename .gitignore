@@ -1,0 +1,9 @@
+/mxnet-infer/.vs
+/mxnet-infer/WorkDir/*
+/mxnet-infer/x64
+/mxnet-infer/mxnet-infer/x64
+mxnet-infer/mxnet-infer/mxnet-infer.vcxproj.user
+/training/.idea/
+/training/__pycache__/
+/training/net-trained*
+
